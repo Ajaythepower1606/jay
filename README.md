@@ -9,6 +9,9 @@ First install termux app then open it.
 After that use the commands given below.
 
 
+Just copy paste the command steps OK.
+
+
 So the steps are :- 
 
 
