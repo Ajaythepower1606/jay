@@ -3,10 +3,14 @@ Soo Jay you are here .
 
 
 
-The Price to install this follow the process OK 
+The process to install this follow is given below.
+
+First install termux app then open it.
+After that use the commands given below.
 
 
 So the steps are :- 
+
 
 Step (1) => pkg install git
 
