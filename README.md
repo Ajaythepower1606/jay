@@ -1,4 +1,8 @@
 # jay
+This repo was for my friend jay.
+
+
+
 Soo Jay you are here .
 
 
